@@ -1,5 +1,5 @@
 """
-Jesus Zeno SIE 508 Extra Credit C
+Jesus Zeno
 This is the main program to create the objects made in the Academic department program file. We will be
 able to perform various functions that will lead up to printing out the course catalog showing the programs
 in a given year.
