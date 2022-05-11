@@ -1,5 +1,5 @@
 """
-Jesus Zeno SIE Extra Credit C
+Jesus Zeno
 We will be implementing the classes for the UML diagram for the academic department. This will demonstrate
 the use of inheritance, association, and aggregation.
 """
